@@ -1,0 +1,1 @@
+# GSpot tests
